@@ -38,19 +38,6 @@ sudo apt-get install -y kcov
  # Crear la carpeta raíz
 echo "Salimos a carpeta raíz"
 cd ~
- # Crear la carpeta programas
-echo "Creamos la carpeta investigación."
-mkdir -p investigacion
- # Entrar en la carpeta programas
-echo "Entramos en carpeta investigación."
-cd investigacion
- # Crear la carpeta BioDynamo
-echo "Creamos la carpeta BioDynamo."
-mkdir -p BioDynamo
- # Entrar en la carpeta BioDynamo
-echo "Entramos en las carpeta BioDynamo."
-cd BioDynamo
- # Clonar el repositorio
 echo "Clonamos el repositorio."
 git clone https://github.com/BioDynaMo/biodynamo.git
  # Entrar en la carpeta biodynamo
@@ -59,4 +46,4 @@ cd biodynamo
  # Ejecutar la instalación
 echo "Ejecutamos la instalación."
 sudo ./install.sh
-echo "Fin de la instalación completa."
+echo "Fin de la instalación."
