@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/analytic_continuum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/binding_cells" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cell_division" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flocking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gene_regulation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/monolayer_growth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multiple_simulations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyramidal_cell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sbml_integration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/soma_clustering" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tumor_concept" vcs="Git" />
+  </component>
+</project>
