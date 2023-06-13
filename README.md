@@ -16,6 +16,7 @@ $ sudo ./biodynamo_install.sh
 
   No olvide citar las referencias de los autores del programa y del autor del
   curso.
+  La versión del software es: bdm-1.5.59
 
   1 de Junio de 2023.
 
