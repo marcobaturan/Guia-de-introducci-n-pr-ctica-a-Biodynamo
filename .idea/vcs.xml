@@ -8,7 +8,9 @@
     <mapping directory="$PROJECT_DIR$/flocking" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gene_regulation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/monolayer_growth" vcs="Git" />
+
     <mapping directory="$PROJECT_DIR$/move_cell_along_gradient" vcs="Git" />
+
     <mapping directory="$PROJECT_DIR$/multiple_simulations" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pyramidal_cell" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sbml_integration" vcs="Git" />
