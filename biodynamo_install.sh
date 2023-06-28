@@ -37,7 +37,7 @@ sudo apt-get install -y kcov
 # Instalar biodynamo
  # Crear la carpeta raíz
 echo "Salimos a carpeta raíz"
-cd ~
+cd 
 echo "Clonamos el repositorio."
 git clone https://github.com/BioDynaMo/biodynamo.git
  # Entrar en la carpeta biodynamo
